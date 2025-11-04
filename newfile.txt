@@ -1,0 +1,2 @@
+This file was added in the cloned repository during Task 4.
+It demonstrates adding a new file and pushing it to GitHub.
